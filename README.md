@@ -1,5 +1,4 @@
-# SugarChoc test 2019-01-13
-
-- feature-A
-
-- fix-B
+# Crawl JD without using scrapy
+## author: sugarchoc 
+## Datetime: 2019-01-14
+## Target: learn bs4 & requests
